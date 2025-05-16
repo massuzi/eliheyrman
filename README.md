@@ -41,21 +41,21 @@ This gives me insight into:
 
 #### 🔍 Sample Input:
 https://atas.net/s/zkwrXHv95FY.png  
-Outcome: BE
-Session: IS3
-Direction: Long
-Profit in ticks: 5
-Risk in ticks: 54
-Potential in ticks: 130
+Outcome: BE  
+Session: IS3  
+Direction: Long  
+Profit in ticks: 5  
+Risk in ticks: 54  
+Potential in ticks: 130  
 Comments: continuation trade but also choked and SL hit at BE
-HTF: Bullish
-MTF: Bullish
-LTF: Bearish
-L1: pdClose
-L2: dOpen
-L3: VAL
-L4: 8EMA
-L5: pdOpen
+HTF: Bullish  
+MTF: Bullish  
+LTF: Bearish  
+L1: pdClose  
+L2: dOpen  
+L3: VAL  
+L4: 8EMA  
+L5: pdOpen  
 
 📂 [View the full project →](./discord-trading-journal-automation)
 
