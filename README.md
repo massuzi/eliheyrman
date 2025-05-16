@@ -57,10 +57,6 @@ L3: VAL
 L4: 8EMA
 L5: pdOpen
 
-yaml
-Kopiëren
-Bewerken
-
 📂 [View the full project →](./discord-trading-journal-automation)
 
 ---
