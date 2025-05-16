@@ -40,7 +40,7 @@ This gives me insight into:
 - ✅ Visual validation via embedded chart links
 
 #### 🔍 Sample Input:
-https://atas.net/s/zkwrXHv95FY.png
+https://atas.net/s/zkwrXHv95FY.png  
 Outcome: BE
 Session: IS3
 Direction: Long
