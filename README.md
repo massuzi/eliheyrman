@@ -40,6 +40,7 @@ This gives me insight into:
 - ✅ Visual validation via embedded chart links
 
 #### 🔍 Sample Input:
+https://atas.net/s/zkwrXHv95FY.png
 Outcome: BE
 Session: IS3
 Direction: Long
@@ -55,7 +56,6 @@ L2: dOpen
 L3: VAL
 L4: 8EMA
 L5: pdOpen
-Chart: https://atas.net/s/zkwrXHv95FY.png
 
 yaml
 Kopiëren
